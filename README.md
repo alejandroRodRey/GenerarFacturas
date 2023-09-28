@@ -1,6 +1,6 @@
 # FacturacionAutonomos
 
-La aplicación ‘Facturación Autónomos’ de RDZsystems permite generar facturas y presupuestos personalizados en PDF de forma sencilla, así como observar un registro de la contabilidad anual e histórica.
+La aplicación ‘Generar Facturas’ de RDZsystems permite generar facturas y presupuestos personalizados en PDF de forma sencilla, así como observar un registro de la contabilidad anual e histórica.
 
 Centrada en la simplicidad de uso no requiere de un periodo de aprendizage largo, es una aplicación intuitiva que puede ahorrar mucho tiempo en las tareas de facturación de cualquier empresa o empresario autónomo.
 
