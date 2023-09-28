@@ -1,4 +1,4 @@
-# FacturacionAutonomos
+# GenerarFacturas
 
 La aplicación ‘Generar Facturas’ de RDZsystems permite generar facturas y presupuestos personalizados en PDF de forma sencilla, así como observar un registro de la contabilidad anual e histórica.
 
